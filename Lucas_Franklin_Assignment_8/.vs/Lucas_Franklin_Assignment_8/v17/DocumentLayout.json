@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucas\\OneDrive - Liberty University\\Documents\\Visual Studio 2022\\Projects\\Lucas_Franklin_Assignment_8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Lucas_Franklin_Assignment_8.vbproj|c:\\users\\lucas\\onedrive - liberty university\\documents\\visual studio 2022\\projects\\lucas_franklin_assignment_8\\missionary.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Lucas_Franklin_Assignment_8.vbproj|solutionrelative:missionary.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Lucas_Franklin_Assignment_8.vbproj|c:\\users\\lucas\\onedrive - liberty university\\documents\\visual studio 2022\\projects\\lucas_franklin_assignment_8\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Lucas_Franklin_Assignment_8.vbproj|solutionrelative:site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Lucas_Franklin_Assignment_8.vbproj|c:\\users\\lucas\\onedrive - liberty university\\documents\\visual studio 2022\\projects\\lucas_franklin_assignment_8\\bibleverse.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Lucas_Franklin_Assignment_8.vbproj|solutionrelative:bibleverse.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Lucas_Franklin_Assignment_8.vbproj|c:\\users\\lucas\\onedrive - liberty university\\documents\\visual studio 2022\\projects\\lucas_franklin_assignment_8\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Lucas_Franklin_Assignment_8.vbproj|solutionrelative:default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Lucas_Franklin_Assignment_8.vbproj|c:\\users\\lucas\\onedrive - liberty university\\documents\\visual studio 2022\\projects\\lucas_franklin_assignment_8\\aboutme.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Lucas_Franklin_Assignment_8.vbproj|solutionrelative:aboutme.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BibleVerse.aspx",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive - Liberty University\\Documents\\Visual Studio 2022\\Projects\\Lucas_Franklin_Assignment_8\\BibleVerse.aspx",
+              "RelativeDocumentMoniker": "BibleVerse.aspx",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive - Liberty University\\Documents\\Visual Studio 2022\\Projects\\Lucas_Franklin_Assignment_8\\BibleVerse.aspx",
+              "RelativeToolTip": "BibleVerse.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-01T23:02:04.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Missionary.aspx",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive - Liberty University\\Documents\\Visual Studio 2022\\Projects\\Lucas_Franklin_Assignment_8\\Missionary.aspx",
+              "RelativeDocumentMoniker": "Missionary.aspx",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive - Liberty University\\Documents\\Visual Studio 2022\\Projects\\Lucas_Franklin_Assignment_8\\Missionary.aspx",
+              "RelativeToolTip": "Missionary.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-01T22:08:48.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive - Liberty University\\Documents\\Visual Studio 2022\\Projects\\Lucas_Franklin_Assignment_8\\Default.aspx",
+              "RelativeDocumentMoniker": "Default.aspx",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive - Liberty University\\Documents\\Visual Studio 2022\\Projects\\Lucas_Franklin_Assignment_8\\Default.aspx",
+              "RelativeToolTip": "Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-01T21:45:45.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive - Liberty University\\Documents\\Visual Studio 2022\\Projects\\Lucas_Franklin_Assignment_8\\Site.Master",
+              "RelativeDocumentMoniker": "Site.Master",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive - Liberty University\\Documents\\Visual Studio 2022\\Projects\\Lucas_Franklin_Assignment_8\\Site.Master",
+              "RelativeToolTip": "Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-01T20:57:57.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Aboutme.aspx",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive - Liberty University\\Documents\\Visual Studio 2022\\Projects\\Lucas_Franklin_Assignment_8\\Aboutme.aspx",
+              "RelativeDocumentMoniker": "Aboutme.aspx",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive - Liberty University\\Documents\\Visual Studio 2022\\Projects\\Lucas_Franklin_Assignment_8\\Aboutme.aspx",
+              "RelativeToolTip": "Aboutme.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-01T21:48:07.998Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
